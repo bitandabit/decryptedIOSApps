@@ -1,0 +1,164 @@
+{
+  "id": "concerts",
+    "header": {
+        "id": "main_header",
+        "component": {
+            "id": "glue:header",
+            "category": "header"
+        },
+        "text": {
+            "title": "Coldplay"
+        }
+    },
+    "body": [
+    {
+      "id": "sectionHeader",
+      "component": {
+        "id": "glue:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "Near Stockholm"
+      }
+    },
+    {
+      "id": "concert_row0",
+      "component": {
+        "id": "glue:entityRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Coldplay at Tele2 Arena",
+        "subtitle": "K\u00e4gelbanan S\u00f6dra Teatern - Stockholm"
+      },
+      "target": {
+        "uri": "https:\/\/www.songkick.com\/concerts\/151232?utm_source=8123&utm_medium=partner"
+      },
+      "custom": {
+           "calendar": {
+           "day_of_month": 14,
+           "month": "Feb"
+           }
+      }
+    },
+    {
+      "id": "concert_row1",
+      "component": {
+        "id": "glue:entityRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Coldplay at Tele2 Arena",
+        "subtitle": "K\u00e4gelbanan S\u00f6dra Teatern - Stockholm"
+      },
+      "target": {
+        "uri": "https:\/\/www.songkick.com\/concerts\/151232?utm_source=8123&utm_medium=partner"
+      },
+      "custom": {
+           "calendar": {
+           "day_of_month": 15,
+           "month": "Feb"
+           }
+      }
+    },
+    {
+      "id": "concert_row2",
+      "component": {
+        "id": "glue:entityRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Coldplay at Tele2 Arena",
+        "subtitle": "K\u00e4gelbanan S\u00f6dra Teatern - Stockholm"
+      },
+      "target": {
+        "uri": "https:\/\/www.songkick.com\/concerts\/151232?utm_source=8123&utm_medium=partner"
+      },
+      "custom": {
+           "calendar": {
+           "day_of_month": 16,
+           "month": "Feb"
+           }
+      }
+    },
+    {
+        "id": "change-location",
+        "component": {
+             "id": "concerts:change-location"
+        },
+        "target": {
+             "uri": "spotify:concerts:location-search"
+        }
+    },
+    {
+      "id": "sectionHeader1",
+      "component": {
+        "id": "glue:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "Other Venues"
+      }
+    },
+    {
+      "id": "other-concert_row0",
+      "component": {
+        "id": "glue:entityRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Coldplay at Tele2 Arena",
+        "subtitle": "K\u00e4gelbanan S\u00f6dra Teatern - Stockholm"
+      },
+      "target": {
+        "uri": "https:\/\/www.songkick.com\/concerts\/151232?utm_source=8123&utm_medium=partner"
+      },
+      "custom": {
+           "calendar": {
+           "day_of_month": 20,
+           "month": "Feb"
+           }
+      }
+    },
+    {
+      "id": "other-concert_row1",
+      "component": {
+        "id": "glue:entityRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Coldplay at Tele2 Arena",
+        "subtitle": "K\u00e4gelbanan S\u00f6dra Teatern - Stockholm"
+      },
+      "target": {
+        "uri": "https:\/\/www.songkick.com\/concerts\/151232?utm_source=8123&utm_medium=partner"
+      },
+      "custom": {
+           "calendar": {
+           "day_of_month": 21,
+           "month": "Feb"
+           }
+      }
+    },
+    {
+      "id": "other-concert_row2",
+      "component": {
+        "id": "glue:entityRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Coldplay at Tele2 Arena",
+        "subtitle": "K\u00e4gelbanan S\u00f6dra Teatern - Stockholm"
+      },
+      "target": {
+        "uri": "https:\/\/www.songkick.com\/concerts\/151232?utm_source=8123&utm_medium=partner"
+      },
+      "custom": {
+           "calendar": {
+           "day_of_month": 22,
+           "month": "Feb"
+           }
+      }
+    }
+  ]
+}

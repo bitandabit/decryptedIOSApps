@@ -1,0 +1,63 @@
+{
+    "featuredCharts": [
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "Top Charts: USA",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/unbranded/36bb2b08f1aa0a8de47897685883cb288e31b1ce"
+        },
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "Social Chart",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/unbranded/48294c9d3d171ac4c5b6400e0d8f2c357569ce75"
+        },
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "Viral 50: USA",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/unbranded/3aa75513898c67c9a4ba4f8de7f7596b13852e66"
+        },
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "College Chart",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/unbranded/68d07ad1076b2dbcd5a9cfb0da7858d9a63effd6"
+        }
+    ],
+    
+    "genreCharts": [
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "Top Charts: Alternative",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/300/6aaecf3b15a28005986dbd6bf0f8443721997b6e"
+        },
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "Top Charts: Rock",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/300/1f74dda8f6f3d4e038a3df4d859570c82192288e"
+        }
+    ],
+    
+    "countryCharts": [
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "Top Charts: Sweden",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/unbranded/4aa4623e98608d08172c2b7e5c101b1f95f99f0c"
+        },
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "Top Charts: France",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/unbranded/b7afe9c973ac99b97c758d3912b2b7a20e7c52bb"
+        }
+    ],
+    
+    "viralCharts": [
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "Viral 50: Sweden",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/unbranded/919433af888c3aa430ea42df7cd4376efaa835dc"
+        },
+        {
+            "uri": "spotify:chart:testchart",
+            "name": "Viral 50: UK",
+            "image": "https://d3rt1990lpmkn.cloudfront.net/unbranded/a084ebf3fcc25dc2dba91ebbcc22185e1064b29a"
+        }
+    ]
+}

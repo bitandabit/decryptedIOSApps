@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:open.spotify.com</string>
+		<string>applinks:play.spotify.com</string>
+		<string>applinks:e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com</string>
+		<string>applinks:accounts.spotify.com</string>
+		<string>activitycontinuation:open.spotify.com</string>
+		<string>activitycontinuation:play.spotify.com</string>
+		<string>applinks:q4mn.adj.st</string>
+	</array>
+	<key>com.apple.developer.playable-content</key>
+	<true/>
+</dict>
+</plist>

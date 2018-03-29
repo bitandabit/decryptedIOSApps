@@ -1,0 +1,40 @@
+{
+    "header": {
+    "id": "header",
+    "component": {
+        "id": "upsell:header",
+        "category": "header"
+    },
+    "text": {
+        "title": "Play full albums on Spotify Premium.",
+        "subtitle": "Led Zeppelin IV (Deluxe Edition)",
+        "accessory": "Learn more",
+        "description": "Harcoded Debug Upsell Sample Note."
+    },
+    "custom": {
+            "legal_url_label": "See terms.",
+            "legal_url": "https://spotify.com",
+            "legal_text": "Limited eligibility."
+    },
+    "images": {
+        "main": {
+            "uri": "https://i.scdn.co/image/ace0499aa905fd284b53cbeb91704fa3f294756c",
+            "placeholder": "album"
+        },
+        "background": {
+            "uri": "https://upsell.scdn.co/assets/fbd401ef-70d9-41a8-b472-48b907a2f0ea"
+        }
+    },
+    "logging": {
+        "impression_url": "https://spclient.wg.spotify.com/upsell-service/v5/track?ctv=15463&cid=876&lid=4475196447&locale=en&uuid=66ba3c78-67fe-4b64-ac48-33377dbba7fb-album-page&trig=album-page&event=view&url=https%3A%2F%2Fsecurepubads.g.doubleclick.net%2Fpcs%2Fview%3Fxai%3DAKAOjsuJ39iMKHRkWT3_m5MiBgWz6s7gOXRoZcHSwyITQAvVjjq8-Z2evnTQ9sXKtPLVw1mU4XCMv1TuYhyZF7WHqBKV88RP18CdH1-O8IH7nBVg64ynboJjn0gOYGh7zOqGvU96MsjjgwL6zohTkz-1vHzSxdZNMrxOH8jAUzOFX447jkn2029YpT5pa4-JYuWb2ksN6uWHVCW_2PzrCT_QLXAVbgo%26sai%3DAMfl-YQn8bQrZixz6q9BqcdxX1A7HpB-1_BdoazAWprwsvvDAS8aQu3NoRgnkiW-IRE%26sig%3DCg0ArKJSzOO_2a9gKvUYEAE%26urlfix%3D1%26adurl%3D"
+    },
+    "events": {
+        "click": {
+            "name": "upsell:iap",
+            "data": {
+                "interactionLogTrial": "https://spclient.wg.spotify.com/upsell-service/v5/track?ctv=15463&cid=876&lid=4475196447&locale=en&uuid=66ba3c78-67fe-4b64-ac48-33377dbba7fb-album-page&trig=album-page&event=primary_click&click_action=TRIAL"
+            }
+        }
+    }
+    }
+}

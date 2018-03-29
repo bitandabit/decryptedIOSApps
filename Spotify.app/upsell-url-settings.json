@@ -1,0 +1,19 @@
+{
+    "ads": {
+        "skip-limit-reached": {
+            "primary_action_button": {
+                "title": "LOAD URL",
+                "url": "%@",
+                "type": "URL"
+            },
+            "close_title": "CLOSE",
+            "expiry_length_seconds": 86400,
+            "id": "identifier",
+            "impression_url": "http://www.spotify.com",
+            "message": "URL: %@",
+            "reason": "skip-limit-reached",
+            "title": "Action URL test.",
+            "type": "PREVIEW"
+        }
+    }
+}
